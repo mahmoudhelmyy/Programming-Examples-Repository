@@ -4,15 +4,15 @@ Welcome to the Programming Examples Repository! This repository showcases a coll
 
 ## Table of Contents
 
-- [Bus Reservation System](BusReservationSystem.c): A command-line bus reservation system that allows users to book and manage bus trips.
+- [Bus Reservation System](Bus-Reservation-System): A command-line bus reservation system that allows users to book and manage bus trips.
 
-- [Calculator Program](Calculator.c): A versatile calculator program that performs basic arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, and factorial.
+- [Calculator Program](Calculator-Program): A versatile calculator program that performs basic arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, and factorial.
 
-- [Maximum Amount of Water Trapped](MaximumAmountOfWater.c): Calculates the maximum amount of water that can be trapped between different height bars.
+- [Maximum Amount of Water Trapped](MaximumAmountOfWater): Calculates the maximum amount of water that can be trapped between different height bars.
 
-- [Array Rotation Functions](RotationFunction.c): Demonstrates array rotation methods, both left and right, by a specified number of positions.
+- [Array Rotation Functions](RotationFunction): Demonstrates array rotation methods, both left and right, by a specified number of positions.
 
-- [Finding Second Biggest Number](SecondBiggestNumber.c): Finds and displays the second biggest number in an array.
+- [Finding Second Biggest Number](SecondBiggestNumber): Finds and displays the second biggest number in an array.
 
 - [Basic Stack Implementation](Stack.c): Implements a basic stack data structure along with common stack operations, adhering to coding standards.
 
