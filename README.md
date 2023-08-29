@@ -4,31 +4,24 @@ Welcome to the Programming Examples Repository! This repository showcases a coll
 
 ## Table of Contents
 
-- [Bus Reservation System](Bus-Reservation-System): A command-line bus reservation system that allows users to book and manage bus trips.
+- [Bus Reservation System]: A command-line bus reservation system that allows users to book and manage bus trips.
 
-- [Calculator Program](Calculator-Program): A versatile calculator program that performs basic arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, and factorial.
+- [Calculator Program]: A versatile calculator program that performs basic arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, and factorial.
 
-- [Maximum Amount of Water Trapped](MaximumAmountOfWater): Calculates the maximum amount of water that can be trapped between different height bars.
+- [Maximum Amount of Water Trapped]: Calculates the maximum amount of water that can be trapped between different height bars.
 
-- [Array Rotation Functions](RotationFunction): Demonstrates array rotation methods, both left and right, by a specified number of positions.
+- [Array Rotation Functions]: Demonstrates array rotation methods, both left and right, by a specified number of positions.
 
-- [Finding Second Biggest Number](SecondBiggestNumber): Finds and displays the second biggest number in an array.
+- [Finding Second Biggest Number]: Finds and displays the second biggest number in an array.
 
-- [Basic Stack Implementation](Stack.c): Implements a basic stack data structure along with common stack operations, adhering to coding standards.
+- [Basic Stack Implementation]: Implements a basic stack data structure along with common stack operations, adhering to coding standards.
 
-- [Stock Profit Calculation](Stock.c): Calculates the maximum profit from buying and selling stocks using single and multiple transactions.
+- [Stock Profit Calculation]: Calculates the maximum profit from buying and selling stocks using single and multiple transactions.
 
-- [Swapping, Fibonacci, and Sorting](Swapping_Fibonacci_Sorting.c): Illustrates swapping methods, Fibonacci sequence generation, and an incorrect sorting function.
+- [Swapping, Fibonacci, and Sorting]: Illustrates swapping methods, Fibonacci sequence generation, and sorting function.
 
-- [Palindrome Checker](Palindrome.c): Checks if a number is a palindrome and provides its reversed form, following MISRA-C 2012 guidelines.
+- [Palindrome Checker]: Checks if a number is a palindrome and provides its reversed form, following MISRA-C 2012 guidelines.
 
-## Usage
-
-1. Clone this repository to your local machine.
-2. Navigate to the desired program's directory.
-3. Compile the source code using the appropriate compiler.
-4. Run the compiled executable to see the program in action.
-5. 
 Feel free to explore, modify, and learn from these examples to enhance your programming skills. Happy coding!
 ## Author
 - Mahmoud Helmy
