@@ -4,23 +4,23 @@ Welcome to the Programming Examples Repository! This repository showcases a coll
 
 ## Table of Contents
 
-- [Bus Reservation System]: A command-line bus reservation system that allows users to book and manage bus trips.
+- **[Bus Reservation System]**: A command-line bus reservation system that allows users to book and manage bus trips.
 
-- [Calculator Program]: A versatile calculator program that performs basic arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, and factorial.
+- **[Calculator Program]**: A versatile calculator program that performs basic arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, and factorial.
 
-- [Maximum Amount of Water Trapped]: Calculates the maximum amount of water that can be trapped between different height bars.
+- **[Maximum Amount of Water Trapped]**: Calculates the maximum amount of water that can be trapped between different height bars.
 
-- [Array Rotation Functions]: Demonstrates array rotation methods, both left and right, by a specified number of positions.
+- **[Array Rotation Functions]**: Demonstrates array rotation methods, both left and right, by a specified number of positions.
 
-- [Finding Second Biggest Number]: Finds and displays the second biggest number in an array.
+- **[Finding Second Biggest Number]**: Finds and displays the second biggest number in an array.
 
-- [Basic Stack Implementation]: Implements a basic stack data structure along with common stack operations, adhering to coding standards.
+- **[Basic Stack Implementation]**: Implements a basic stack data structure along with common stack operations, adhering to coding standards.
 
-- [Stock Profit Calculation]: Calculates the maximum profit from buying and selling stocks using single and multiple transactions.
+- **[Stock Profit Calculation]**: Calculates the maximum profit from buying and selling stocks using single and multiple transactions.
 
-- [Swapping, Fibonacci, and Sorting]: Illustrates swapping methods, Fibonacci sequence generation, and sorting function.
+- **[Swapping, Fibonacci, and Sorting]**: Illustrates swapping methods, Fibonacci sequence generation, and sorting function.
 
-- [Palindrome Checker]: Checks if a number is a palindrome and provides its reversed form, following MISRA-C 2012 guidelines.
+- **[Palindrome Checker]**: Checks if a number is a palindrome and provides its reversed form, following MISRA-C 2012 guidelines.
 
 Feel free to explore, modify, and learn from these examples to enhance your programming skills. Happy coding!
 ## Author
