@@ -1,3 +1,39 @@
+# Programming Examples Repository
+
+Welcome to the Programming Examples Repository! This repository showcases a collection of simple yet illustrative programming examples across various topics. Each program is designed to demonstrate fundamental concepts and techniques, making it a valuable resource for learning and practicing programming skills.
+
+## Table of Contents
+
+- [Bus Reservation System](BusReservationSystem.c): A command-line bus reservation system that allows users to book and manage bus trips.
+
+- [Calculator Program](Calculator.c): A versatile calculator program that performs basic arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, and factorial.
+
+- [Maximum Amount of Water Trapped](MaximumAmountOfWater.c): Calculates the maximum amount of water that can be trapped between different height bars.
+
+- [Array Rotation Functions](RotationFunction.c): Demonstrates array rotation methods, both left and right, by a specified number of positions.
+
+- [Finding Second Biggest Number](SecondBiggestNumber.c): Finds and displays the second biggest number in an array.
+
+- [Basic Stack Implementation](Stack.c): Implements a basic stack data structure along with common stack operations, adhering to coding standards.
+
+- [Stock Profit Calculation](Stock.c): Calculates the maximum profit from buying and selling stocks using single and multiple transactions.
+
+- [Swapping, Fibonacci, and Sorting](Swapping_Fibonacci_Sorting.c): Illustrates swapping methods, Fibonacci sequence generation, and an incorrect sorting function.
+
+- [Palindrome Checker](Palindrome.c): Checks if a number is a palindrome and provides its reversed form, following MISRA-C 2012 guidelines.
+
+## Usage
+
+1. Clone this repository to your local machine.
+2. Navigate to the desired program's directory.
+3. Compile the source code using the appropriate compiler.
+4. Run the compiled executable to see the program in action.
+5. 
+Feel free to explore, modify, and learn from these examples to enhance your programming skills. Happy coding!
+## Author
+- Mahmoud Helmy
+
+
 # 1. Bus Reservation System
 
 A simple command-line bus reservation system that allows users to book and manage bus trips.
