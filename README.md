@@ -143,6 +143,170 @@ Consider the array `[1, 2, 3, 4, 5]` and rotating it left by 2 positions:
 ```plaintext
 Original array = 1 2 3 4 5
 Rotated array = 3 4 5 1 2
+```
+# 5. Second Biggest Number Finder
+
+A program that finds and displays the second biggest number in an array of integers.
+
+## Description
+
+This program provides a function to find the second biggest number in an array of integers. It sorts the array in descending order and then extracts the second element, which corresponds to the second biggest number.
+
+## Features
+
+- Second Biggest Number: Finds and displays the second biggest number in the array.
+- Array Sorting: Sorts the array in descending order.
+- User-Friendly Output: Displays the original array and the second biggest number.
+
+## Getting Started
+
+1. Clone the repository or download the source code.
+2. Compile the `SecondBiggestNumber.c` source file using a C compiler (e.g., gcc).
+3. Run the compiled executable.
+4. Observe the original array and the second biggest number in the program's output.
+
+## Algorithm Explanation
+
+1. The program sorts the array in descending order using a simple bubble sort algorithm.
+2. If the array size is at least 2, it prints the sorted array and extracts the second element as the second biggest number.
+
+## Example
+
+Consider the array `[13, 16, 14, 1]`:
+
+```plaintext
+Original array: 13 16 14 1
+Sorted array: 16 14 13 1
+Second biggest number is 14
+```
+# 6. Stack Implementation in C
+
+A basic implementation of a stack data structure in C, along with push and pop operations.
+
+## Description
+
+This program provides a simple implementation of a stack data structure in C. It includes functions to create a stack, push elements onto the stack, pop elements from the stack, and print the elements that were popped.
+
+## Features
+
+- Stack Creation: Create a stack of a specified size.
+- Push Operation: Push elements onto the stack.
+- Pop Operation: Pop elements from the stack.
+- Printing Popped Elements: Print the elements that were popped from the stack.
+- Memory Management: Proper memory allocation and deallocation.
+
+## Getting Started
+
+1. Clone the repository or download the source code.
+2. Compile the `Stack.c` source file using a C compiler (e.g., gcc).
+3. Run the compiled executable.
+4. Observe the behavior of the stack operations and output.
+
+## Implementation Details
+
+- A stack structure is defined with an array to hold elements, the maximum size of the stack, and the index of the top element.
+- The `create_stack` function dynamically allocates memory for the stack structure and its array. It returns a pointer to the created stack.
+- The `push` function adds an element to the stack if space is available.
+- The `pop` function removes and returns the top element from the stack if it's not empty.
+- The `print` function pops and prints all elements in the stack.
+
+## Example
+
+```plaintext
+Stack FULL!!
+3
+2
+1
+Stack EMPTY!!
+```
+
+# 7. Stock Profit Calculator
+Find the maximum profit from buying and selling stocks
+
+
+## Description
+
+This program calculates the maximum profit that can be achieved from buying and selling stocks using two different strategies: a single transaction and multiple transactions.
+
+## Features
+
+- Calculate Maximum Profit: Calculates the maximum profit using a single transaction or multiple transactions.
+- Optimized Strategies: Utilizes efficient algorithms to determine the best buying and selling decisions.
+
+## Getting Started
+
+1. Clone the repository or download the source code.
+2. Compile the `Stock.c` source file using a C compiler (e.g., gcc).
+3. Run the compiled executable.
+4. Observe the calculated maximum profit for the provided stock prices.
+
+## Algorithms
+
+- `maxProfit`: Calculates the maximum profit using a single transaction. It finds the best buying and selling points to maximize profit.
+- `maxProfit2`: Calculates the maximum profit using multiple transactions. It identifies increasing price trends and accumulates profit.
+
+## Example
+
+For the stock prices: `[2, 6, 3, 10]`
+
+- Using single transaction: Maximum Profit = 8 (Buy at 2, sell at 10)
+- Using multiple transactions: Maximum Profit = 11 (Buy at 2, sell at 6; Buy at 3, sell at 10)
+
+## 8. Swapping, Fibonacci Sequence, and Sorting
+ Demonstrates swapping methods, Fibonacci sequence generation, and sorting function.
+
+## Description
+
+This program showcases various concepts, including swapping methods, generating the Fibonacci sequence, and sorting function.
+
+## Features
+
+- Swapping Methods: Demonstrates different ways to swap two integers, including correct and incorrect implementations.
+- Fibonacci Sequence: Generates the Fibonacci sequence up to a given number using iterative logic.
+
+## Getting Started
+
+1. Clone the repository or download the source code.
+2. Compile the `Swapping_Fibonacci_Sorting.c` source file using a C compiler (e.g., gcc).
+3. Run the compiled executable to observe the demonstration of swapping methods, Fibonacci sequence generation, and incorrect sorting.
+
+## Contents
+
+- **Swap Functions**: Illustrates swapping two integers using different methods, including correct and incorrect implementations.
+- **Fibonacci Sequence Generation**: Generates the Fibonacci sequence using iterative logic up to a given number.
+
+# 9. Palindrome Checker
+
+A program that checks if a number is a palindrome and provides its reversed form.
+
+## Description
+
+This program allows you to input a number and checks whether it's a palindrome. It also provides the reversed form of the input number. The program follows the guidelines of MISRA-C 2012 and adheres to coding standards.
+
+## Features
+
+- Palindrome Check: Determines if a number is a palindrome.
+- Reversed Form: Displays the reversed form of the input number.
+
+## Usage
+
+1. Compile the `Palindrome.c` source file.
+2. Run the compiled executable.
+3. Enter a number to be checked.
+
+## Example
+
+```bash
+$ ./Palindrome
+Enter a number: 12321
+The number is a palindrome.
+Reversed: 12321
+```
+
+
+
+
+
 
 
 
